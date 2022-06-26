@@ -1,0 +1,6 @@
+Manipulando o D.O.M
+
+Foi criado uma estrutura básica de projeto front-end(HTML, CSS E JS).
+Atividade de Light Mode/Dark Mode.
+
+Ministrada pela Stephany Nusch na Digital Innovation One. 
